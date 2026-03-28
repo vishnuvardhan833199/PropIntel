@@ -1,8 +1,8 @@
-# 🚀 PropIntel Lite – AI Property Risk Analyzer
+# 🚀 PropIntel – AI Property Risk Analyzer
 
 ## 📌 Overview
 
-PropIntel Lite is an AI-powered system that analyzes property documents and detects potential risks using OCR and NLP.
+PropIntel is an AI-powered system that analyzes property documents and detects potential risks using OCR and NLP.
 
 ## ⚙️ Features
 
